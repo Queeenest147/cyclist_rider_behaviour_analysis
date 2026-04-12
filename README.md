@@ -121,7 +121,6 @@ III. Data Transformation & Processing
 
 **VII. Data Visualization**
 * Built an interactive Power BI dashboard
-* Designed a homepage for intuitive navigation
 * Developed visuals to highlight behavioural differences between user segments
 
 ## 6. Exploratory Data Analysis (EDA)
