@@ -235,8 +235,7 @@ These stations are likely located near recreational areas or accessible neighbor
 **Why does it matter?**
 These locations present strategic touchpoints for targeted marketing—such as on-site promotions, discounts, or trial memberships—to convert casual riders at the point of highest engagement.
 
-8. Visuals Preview
-
+## 8. Visuals Preview
 
 
 **Visual Type 1: Annotated Dashboard Screenshots**
@@ -371,7 +370,7 @@ While this project provides valuable insights into rider behaviour and conversio
 * The dataset covers a limited time period and may not reflect long-term trends
 
 
-11. Implementation Plan
+## 11. Implementation Plan
 
 This section outlines how the insights from this analysis can be translated into actionable strategies to increase conversion of casual riders into annual members.
 
