@@ -237,11 +237,13 @@ These locations present strategic touchpoints for targeted marketing—such as o
 
 8. Visuals Preview
 
-Visual Type 1: Annotated Dashboard Screenshots
+
+
+**Visual Type 1: Annotated Dashboard Screenshots**
 
 <img width="1101" height="485" alt="Screenshot 2026-04-07 082042" src="https://github.com/user-attachments/assets/5a80c071-6710-46f2-b71e-a2c852493853" />
 
-Visual Type 3: Data Cleaning (Before vs After)
+**Visual Type 2: Data Cleaning (Before vs After)**
 
 *Excerpt of Uncleaned Dataset*
 <img width="1133" height="181" alt="Screenshot 2026-04-10 004643" src="https://github.com/user-attachments/assets/3e490a4c-55a2-40f9-a07f-a45148d679de" />
@@ -249,7 +251,9 @@ Visual Type 3: Data Cleaning (Before vs After)
 *Excerpt of Uncleaned Dataset*
 <img width="1115" height="166" alt="Screenshot 2026-04-10 004730" src="https://github.com/user-attachments/assets/5f02b097-7bba-46b6-984a-9d54e7203781" />
 
-Visual Type 4: Python Code Snippets
+
+
+**Visual Type 3: Python Code Snippets**
 
 *Data Cleaning Pythn code snippet*
 <img width="1057" height="445" alt="Screenshot 2026-04-10 005434" src="https://github.com/user-attachments/assets/b6ecb85f-85b8-43ee-841e-20bf4b8be1a2" />
@@ -259,7 +263,9 @@ Visual Type 4: Python Code Snippets
 
 Full implementation is available in the project repository.
 
-Visual Type 5: Process Flow Diagram
+
+
+**Visual Type 5: Process Flow Diagram**
 
 <img width="340" height="405" alt="Screenshot 2026-04-10 011510" src="https://github.com/user-attachments/assets/bb3618f7-d91d-4adb-b111-85376de7b943" />
 
@@ -352,23 +358,65 @@ Expected Impact:
 Reduces entry barriers and encourages gradual transition from casual usage to full membership.
 
 
-10. Limitations & Assumptions
-Limited geographic scope (Chicago only)
-No demographic data (age, income, etc.)
-External factors (weather, events) not included
+## 10. Limitations & Assumptions
+
+While this project provides valuable insights into rider behaviour and conversion opportunities, it is subject to several limitations and assumptions:
+
+* Missing values were present in key fields and removed during data cleaning
+* Some records with unrealistic ride durations were excluded based on logical assumptions
+* The dataset does not include demographic information such as age, gender, or income
+* External factors like weather, events, and traffic were not considered
+* The analysis is limited to a single city (Chicago)
+* Behavioural interpretations are inferred from patterns and not directly validated
+* The dataset covers a limited time period and may not reflect long-term trends
+
+
 11. Implementation Plan
-Deploy dashboard for stakeholder use
-Integrate with real-time ride data
-Use insights for targeted marketing campaigns
-Track conversion rates over time
 
-13. Conclusion
-Summary of behavioural differences
-Business value of insights
-Impact on conversion strategy
-14. Table of Contents
+This section outlines how the insights from this analysis can be translated into actionable strategies to increase conversion of casual riders into annual members.
 
-(Same format as your aviation project—just update links)
+**What Needs to Be Done**
+* Launch targeted marketing campaigns focused on high-engagement casual riders
+* Introduce flexible membership plans and trial offers
+* Deploy time-based and location-based promotions
+* Highlight electric bike benefits in membership messaging
+  
+**Who is Responsible**
+* Marketing Team: Campaign design, promotions, and customer targeting
+* Product Team: Membership plans, pricing structure, and feature updates
+* Data Team: Ongoing analysis, user segmentation, and performance tracking
+* Operations Team: On-ground execution at high-traffic stations
+  
+**When Should It Happen**
+* Weekend campaigns (Friday evening – Sunday)
+* Peak hours (3 PM – 7 PM)
+* Seasonal high-demand periods (spring/summer months)
+  
+**How Will Success Be Measured**
+* Increase in casual-to-member conversion rate
+* Growth in membership sign-ups
+* Improvement in user retention rates
+* Engagement metrics (click-through rates, promotion usage)
+  
+**Resources Required**
+* Marketing budget for campaigns and promotions
+Product development support for new membership options
+Data infrastructure for tracking and analysis
+On-ground materials (QR codes, signage at stations)
+
+**Potential Risks & Challenges**
+* Low conversion despite high engagement
+* Ineffective targeting of casual riders
+* Operational challenges in campaign execution
+* External factors (weather, seasonality) affecting results
+
+## 12. Conclusion
+
+This project addressed the challenge of converting casual riders into annual members by analyzing behavioural differences within the Cyclistic bike-share system.
+
+The analysis revealed clear patterns: casual riders are more leisure-oriented, ride longer, prefer weekends, and show strong interest in electric bikes, while members exhibit more consistent, commute-driven behaviour.
+
+These insights highlight a significant opportunity for targeted conversion strategies. By aligning marketing efforts, pricing models, and product offerings with actual user behaviour, Cyclistic can effectively increase membership adoption, improve customer retention, and drive more stable, long-term revenue growth.
 
 
 ## 13. Table of Contents
@@ -383,5 +431,4 @@ Impact on conversion strategy
 9. [Strategic Recommendations](#9-strategic-recommendations)
 10. [Limitations & Assumptions](#10-limitations--assumptions)
 11. [Implementation Plan](#11-implementation-plan)
-12. [Technical Skills Summary](#technical-skills-summary)
 13. [Conclusion](#12-conclusion)
