@@ -1,4 +1,4 @@
-# Cyclistic Rider Behaviour Innsights Dashboard 
+# From Casual to Member: Rider Behaviour Insights Dashboard
 
 ## 1. Executive Summary
 This project analyzes Cyclistic bike-share data to uncover key behavioural differences between casual riders and annual members, with the goal of supporting data-driven customer conversion strategies.
